@@ -6,7 +6,9 @@ Please keep all your existing project files as they are.
 You only need to add the following files to your React project:
 
 App.js
+
 BinayDecimalConverter.jsx
+
 index.js
 
 Corresponding CSS files for the above
